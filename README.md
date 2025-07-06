@@ -76,48 +76,39 @@
 <br/>
 <!-- lang-->
 <h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
-
 <br/>
-
 <table align="center">
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=c" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" height="50" /></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=gitlab" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=react" height="50" /></td>
   </tr>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=html" height="50" /></td>
     <td><img src="https://skillicons.dev/icons?i=css" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=github" height="50" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=cpp" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=javascript" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=python" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=postgresql" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=java" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ubuntu" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=bash" height="50" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=cs" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="50" /></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs" height="50" /></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=notion" height="50" /></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=figma" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=pycharm" height="50" /></td>
-    <td><img src="https://skillicons.dev/icons?i=debian" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" height="50" /></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
   </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=git" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=gitlab" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=pycharm" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=debian" height="50" /></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="50" /></td>
+  </tr>
 </table>
-
 <br/>
 
 
