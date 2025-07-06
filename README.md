@@ -23,7 +23,7 @@
 </h1>
 
 
-<h4 align="left">🌟I'm am a graduate of Bachelor's degree in Computer Engineering, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software Development / Engineering while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
+<h4 align="left" text-justification="center">🌟I'm am a graduate of Bachelor's degree in Computer Engineering, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software Development / Engineering while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
 
 
  <div align="center">
@@ -34,17 +34,20 @@
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="center" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <!-- about me -->
+
  <h1 align="center">💫 About Me</h1>
-<h4> 
+ <img align="right" alt="Coding" width="400" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
+<h4 align="left" width="20"> 
   🌱 I am currently working on and developing my programming skills.</br>
   
  </br>🔭 I worked on PERN / MERN Stacks and experience in Software Development.</br>
  
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
  
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Software Development.</br>
+ ⚡ Aspiring Software Engineer and Data Engineer.</br>
  
- ✨ I only like perfection.</h4> <div align="left"> 
+ ✨ I only like perfection.</h4> 
+ <div align="left"> 
 
 
   <h3>🧲 Connect me :</h3>
@@ -54,30 +57,23 @@
   <a href="https://www.linkedin.com/in/emil-dacillo-225a52233/" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
 
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
-</div></h4>
-
-</div>
 <br/>
 
-<!-- git stat
-<h3 align="center">🌱 Github Status</h3>
-<br>
+
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilDacillo-Git&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmilDacillo-Git&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmilDacillo-Git&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmilDacillo-Git&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmilDacillo-Git&theme=github_dark)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=EmilDacillo-Git&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmilDacillo-Git&bg_color=0d1117&color=fff7e0&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-<br/><br/>
-
-
-
+<br/>
 <!-- lang-->
 <h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 
